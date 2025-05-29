@@ -5,6 +5,9 @@
 - 🌱 Currently learning **Express** (already two steps ahead 😎)
 - 🧠 Still figuring out what I'm truly interested in
 
+## 🚀 Projects
+- 🌐 One of my biggest projects yet: [auth-front-psi.vercel.app](https://auth-front-psi.vercel.app) — *a social media app*
+
 ## 🤝 Collaboration
 - Not looking to collaborate on anything... *yet* 👀
 
