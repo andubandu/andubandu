@@ -1,18 +1,18 @@
 # 👋 Hi there, I'm @andubandu
 
 ## 👀 About Me
-- 💻 I know **backend development** and dabble in **Luau**
-- 🌱 Currently learning **Express** (already two steps ahead 😎)
-- 🧠 Still figuring out what I'm truly interested in
+- 💻 i know **backend development**
+- 🌱 currently learning **express** (already two steps ahead 😎)
+- 🧠 still figuring out what i'm truly interested in
 
 ## 🚀 Projects
-- 🌐 One of my biggest projects yet: [auth-front-psi.vercel.app](https://auth-front-psi.vercel.app) — *a social media app*
+- 🌐 one of my biggest projects yet: [auth-front-psi.vercel.app](https://auth-front-psi.vercel.app) — *a social media app*
 
 ## 🤝 Collaboration
-- Not looking to collaborate on anything... *yet* 👀
+- not looking to collaborate on anything... *yet* 👀
 
 ## 📫 Contact
-- I have different aliases on every platform — **good luck finding me** 🔍
+- i have different aliases on every platform — **good luck finding me** 🔍
 
 ## 😄 Pronouns
 - he/him
