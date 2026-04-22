@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andubandu" alt="andubandu" /></a> </p>
 
-- 🔭 I’m currently working on [Koders4Hire, my startup project](https://k4h.dev)
+- 🔭 I’m currently working on [...]
 
-- 🌱 I’m currently learning **... Nothing?**
+- 🌱 I’m currently learning Next
 
 - 👯 I’m looking to collaborate on **nothing...**
 
